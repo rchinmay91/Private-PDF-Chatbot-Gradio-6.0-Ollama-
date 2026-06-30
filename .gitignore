@@ -1,0 +1,13 @@
+# Python environment folders
+venv/
+.conda/
+__pycache__/
+*.pyc
+
+# Local vector database storage created by Chroma
+.chroma/
+chroma/
+
+# System files
+.DS_Store
+Thumbs.db
