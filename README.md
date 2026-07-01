@@ -52,7 +52,7 @@ Open Git Bash (or your preferred terminal environment) and run the following com
 
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/rchinmay91/Private-PDF-Chatbot-Gradio-6.0-Ollama-.git
 cd YOUR_REPO_NAME
 
 # Install all dependencies bound directly to requirements configuration
